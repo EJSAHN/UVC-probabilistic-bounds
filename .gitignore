@@ -1,0 +1,16 @@
+# Raw data (do not commit)
+data/
+*.xlsx
+
+# Outputs (generated)
+outputs/
+**/outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
